@@ -1,8 +1,8 @@
 ---
 layout: post
-title: We organize a special issue 'Land Use/Cover Mapping and Trend Analysis Using Google Earth Engine' on Remote Sensing.
 date: 2015-11-07 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
+We organize a special issue ['Land Use/Cover Mapping and Trend Analysis Using Google Earth Engine'](https://www.mdpi.com/journal/remotesensing/special_issues/B5985Z71AS) on Remote Sensing.
