@@ -4,7 +4,7 @@ permalink: /teaching/
 title: 
 description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 Spring 2024, Undergraduate Course: Quantitative Remote Sensing
