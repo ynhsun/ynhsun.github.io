@@ -17,7 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 Environmental Information Institute, Navigation College
 
 Dalian Maritime University
@@ -33,5 +32,3 @@ My research interests include quantitative remote sensing, vegetation variables 
 I am looking for self-motivated graduate/undergraduate students and research collaborators. Please feel free to contact me if you are interested!
 
 本人招收2024年、2025年入学的硕士生，招生专业为交通信息工程及控制（082302）、交通运输（086100），也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
-
-
