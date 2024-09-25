@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+Fall 2024, Undergraduate Course: Cartography
+
 Spring 2024, Undergraduate Course: Quantitative Remote Sensing
 
 Fall 2023, Undergraduate Course: Cartography
