@@ -35,4 +35,4 @@ My research interests include quantitative remote sensing, vegetation variables 
 
 I am looking for self-motivated graduate/undergraduate students and research collaborators. Please feel free to contact me if you are interested!
 
-本人招收2025年、2026年入学的硕士生，招生专业为遥感科学与技术（140400）、交通信息工程及控制（082302）、交通运输（086100），也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
+本人招收2026年、2027年入学的硕士生，招生专业为遥感科学与技术（140400）、交通信息工程及控制（082302）、交通运输（086100），也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
