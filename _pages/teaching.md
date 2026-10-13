@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 
+Fall 2026, Undergraduate Course: Introduction to GIS
+
+Fall 2026, Undergraduate Course: Cartography
+
 Spring 2026, Undergraduate Course: Remote Sensing for Geoscience Analysis
 
 Fall 2025, Undergraduate Course: Introduction to GIS
